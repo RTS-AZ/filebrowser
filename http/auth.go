@@ -11,8 +11,8 @@ import (
 	jwt "github.com/golang-jwt/jwt"
 	"github.com/golang-jwt/jwt/request"
 
-	"github.com/filebrowser/filebrowser/v2/errors"
-	"github.com/filebrowser/filebrowser/v2/users"
+	"github.com/RTS-AZ/filebrowser/v2/errors"
+	"github.com/RTS-AZ/filebrowser/v2/users"
 )
 
 const (
